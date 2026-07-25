@@ -3,6 +3,9 @@
 This project supports BrightTV's goal of growing its subscriber base by using data analytics to uncover customer insights. The analysis focuses on customer segmentation, viewing behaviour, subscription trends, and churn to identify growth opportunities and provide data-driven recommendations that support the Customer Value Management (CVM) team's strategy .
 
 
+
+
+
 🎯 **Project Objectives**
 
 📊 Analyze BrightTV user and viewership data to identify key usage trends.
@@ -14,6 +17,8 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 🎬 Recommend strategies to increase content consumption and customer engagement.
 
 🚀 Provide recommendations to help BrightTV grow its subscriber basse.
+
+
 
 
 🛠️**Tools Used**
@@ -31,6 +36,8 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 📽️ Microsoft PowerPoint – Presenting insights and recommendations.
 
 🐙 GitHub – Version control and project documentation.
+
+
 
 
 
@@ -56,6 +63,8 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 
 
+
+
 💡 **Key Findings**
 
 📊 Identified user and viewership trends across the BrightTV platform.
@@ -71,6 +80,8 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 📈 Discovered opportunities to improve customer engagement.
 
 🚀 Developed data-driven recommendations to help increase BrightTV's subscriber base.
+
+
 
 
 
