@@ -5,7 +5,6 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 
 
-
 🎯 **Project Objectives**
 
 📊 Analyze BrightTV user and viewership data to identify key usage trends.
@@ -18,7 +17,7 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 🚀 Provide recommendations to help BrightTV grow its subscriber basse.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🛠️**Tools Used**
@@ -37,7 +36,7 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 🐙 GitHub – Version control and project documentation.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -61,7 +60,7 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 📈 Evaluated the business impact and presented findings.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -82,7 +81,7 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 🚀 Developed data-driven recommendations to help increase BrightTV's subscriber base.
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 💡 **Insights**
