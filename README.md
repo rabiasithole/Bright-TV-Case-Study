@@ -7,6 +7,7 @@ This project supports BrightTV's goal of growing its subscriber base by using da
 
 
 🎯 **Project Objectives**
+
 📊 Analyze BrightTV user and viewership data to identify key usage trends.
 
 📈 Understand the factors that influence content consumption and viewer behaviour.
